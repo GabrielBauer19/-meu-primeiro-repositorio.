@@ -1,4 +1,4 @@
 OBJETIVOS PARA O CURSO 
 1. aprender a base da programação
 2. ter experiencia com logica de programação
-3.explorar uma nova area
+3. explorar uma nova area
